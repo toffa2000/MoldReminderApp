@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "114640977458",
+    "firebase_url": "https://moldreminder-19cc5.firebaseio.com",
+    "project_id": "moldreminder-19cc5",
+    "storage_bucket": "moldreminder-19cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114640977458:android:2236a367d36bbff0",
+        "android_client_info": {
+          "package_name": "mr.moldreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114640977458-tbcgsl70ihp4brfbtm92hn0qi30uh5ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mr.moldreminder",
+            "certificate_hash": "b52b79231fd21d14585463638aa8547fd37cb82e"
+          }
+        },
+        {
+          "client_id": "114640977458-6af4dhg3laenl77v94i6958m2p0il4d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOJE89AzKO4jKccEd33dy9wfuXxiT2dC8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114640977458-6af4dhg3laenl77v94i6958m2p0il4d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
